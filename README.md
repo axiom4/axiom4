@@ -17,6 +17,8 @@
 ### Posts
 
 - [Kubernetes](/posts/kubernetes.md)
+- [Full-Stack Project with Django and Angular](https://github.com/axiom4/TestApp/blob/main/README.md)
+
 
 ### My Skills
 
